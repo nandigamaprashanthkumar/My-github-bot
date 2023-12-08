@@ -10,7 +10,7 @@ Key Features:
 Issue Management:
 Let the GitHub Bot handle issue triaging, labeling, and assignment. Keep your project organized and ensure timely responses to your contributors.
 
-Automated Workflows:
+Automated Workflows:a
 Customize automated workflows to fit your development process. From code reviews to deployment, automate repetitive tasks and focus on what matters most — writing great code.
 
 Real-time Notifications:
